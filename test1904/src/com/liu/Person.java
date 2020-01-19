@@ -9,5 +9,7 @@ package com.liu;
  * @since JDK 1.8
  */
 public class Person {
+    private String id;
+    private String name;
 
 }
