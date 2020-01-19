@@ -11,5 +11,5 @@ package com.liu;
 public class Person {
     private String id;
     private String name;
-
+    private String phone;
 }
